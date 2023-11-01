@@ -1,0 +1,11 @@
+# Ignore log files and automatically generated files
+*.log
+*~
+# Temporary files
+*.swp
+*.swo
+*.swn
+# Exclude JavaFX and other libraries
+/lib/
+#exclude .test text files
+*.test
